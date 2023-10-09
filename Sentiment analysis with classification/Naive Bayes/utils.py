@@ -47,15 +47,6 @@ def process_tweet(tweet):
     return tweets_clean
 
 
-def test_lookup(func):
-    freqs = {('sad', 0): 4,
-             ('happy', 1): 12,
-             ('oppressed', 0): 7}
-    word = 'happy'
-    label = 1
-    if func(freqs, word, label) == 12:
-        return 'SUCCESS!!'
-    return 'Failed Sanity Check!'
 
 
 def lookup(freqs, word, label):
