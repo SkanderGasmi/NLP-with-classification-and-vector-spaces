@@ -3,15 +3,11 @@
 Welcome to the "Sentiment Analysis with Logistic Regression" project. This repository contains a series of notebooks that walk goes through the process of performing sentiment analysis using logistic regression. Each  focuses on a specific aspect of the project.
 
 1. [Preprocessing] - This  covers the preprocessing steps required to prepare the text data for sentiment analysis which include:
-   * Tokenization
-  1. Lowercasing
-  1.3. Removing stop words and punctuation
-  1.4. Stemming
+   * 1.1. Tokenization 
+   * 1.2. Lowercasing
+   * 1.3. Removing stop words and punctuation
+   * 1.4. Stemming
 
-1. Section 1
-    1.1 Subsection 1.1
-    1.2 Subsection 1.2
-2. Section 2
 
 
     
