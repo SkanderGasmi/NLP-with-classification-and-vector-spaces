@@ -2,7 +2,7 @@
 
 Welcome to the "Sentiment Analysis with Logistic Regression" project. This repository contains a series of notebooks that walk goes through the process of performing sentiment analysis using logistic regression. Each  focuses on a specific aspect of the project.
 
-1. [Preprocessing](https://github.com/SkanderGasmi/Sentiment-Analysis-with-Logistic-Regression/blob/main/1_preprocessing.ipynb target="_blank") - This notebook covers the preprocessing steps required to prepare the text data for sentiment analysis which include:
+1. [Preprocessing](https://github.com/SkanderGasmi/Sentiment-Analysis-with-Logistic-Regression/blob/main/1_preprocessing.ipynb) - This notebook covers the preprocessing steps required to prepare the text data for sentiment analysis which include:
    * Tokenization 
    * Lowercasing
    * Removing stop words and punctuation
