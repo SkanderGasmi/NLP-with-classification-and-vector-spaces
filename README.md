@@ -9,7 +9,7 @@ Please explore the individual sub-repositories for projects:
 ## 1. [Sentiment Analysis with Logistic Regression](https://github.com/SkanderGasmi/Sentiment-Analysis-with-Logistic-Regression): 
 - In the "Sentiment Analysis" repository, you'll dive into the world of sentiment analysis using logistic regression. We'll extract features from text, transform them into numerical vectors, and build a binary classifier for tweets. 
 
-## 2. Naive Bayes Tweet Classifier
+## 2. [Naive Bayes Tweet Classifier](https://github.com/SkanderGasmi/NLP-with-classification-and-vector-spaces/tree/main/Sentiment%20analysis%20with%20classification/Naive%20Bayes)
 - In the "Naive Bayes" section, we'll explore the theory behind Bayes' rule for conditional probabilities and apply it to build a Naive Bayes tweet classifier.
 
 ## Word Vectors and Vector Space Models
