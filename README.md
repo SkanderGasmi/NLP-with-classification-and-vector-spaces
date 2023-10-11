@@ -12,6 +12,6 @@ Please explore the individual sub-repositories for projects:
 ## 2. [Naive Bayes Tweet Classifier](https://github.com/SkanderGasmi/NLP-with-classification-and-vector-spaces/tree/main/Sentiment%20analysis%20with%20classification/Naive%20Bayes)
 - In the "Naive Bayes" section, we'll explore the theory behind Bayes' rule for conditional probabilities and apply it to build a Naive Bayes tweet classifier.
 
-## 3. [Word Vectors and Vector Space Models](https://github.com/SkanderGasmi/NLP-with-classification-and-vector-spaces/tree/main/Vector%20space%20models)
+## 3. [Word Vectors and Vector Space Models](https://github.com/SkanderGasmi/NLP-with-classification-and-vector-spaces/tree/main/2%20Vector%20space%20models)
 
 The "Vector Space Models" section introduces you to the world of word vectors and vector space models that capture semantic meaning and relationships between words. and the visualization of these relationships in two dimensions using PCA.
